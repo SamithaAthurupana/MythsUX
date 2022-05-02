@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/MythsUX/static/js/main.f3cd9062.js",
+    "index.html": "/MythsUX/index.html",
+    "main.f3cd9062.js.map": "/MythsUX/static/js/main.f3cd9062.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.f3cd9062.js"
+  ]
+}
